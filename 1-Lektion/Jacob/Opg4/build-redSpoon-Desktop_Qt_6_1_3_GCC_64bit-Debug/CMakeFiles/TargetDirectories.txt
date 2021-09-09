@@ -1,3 +1,0 @@
-/home/jacob/Documents/3. Semester/Machine Vision/Machine-vision/1. lektion/Jacob/Opg4/build-redSpoon-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/jacob/Documents/3. Semester/Machine Vision/Machine-vision/1. lektion/Jacob/Opg4/build-redSpoon-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/jacob/Documents/3. Semester/Machine Vision/Machine-vision/1. lektion/Jacob/Opg4/build-redSpoon-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/redSpoon.dir

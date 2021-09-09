@@ -1,0 +1,3 @@
+/home/jacob/Documents/3-Semester/Machine-vision/1-Lektion/Jacob/OPG3/build-rotateImg-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/jacob/Documents/3-Semester/Machine-vision/1-Lektion/Jacob/OPG3/build-rotateImg-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/jacob/Documents/3-Semester/Machine-vision/1-Lektion/Jacob/OPG3/build-rotateImg-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/rotateImg.dir
