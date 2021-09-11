@@ -1,0 +1,3 @@
+/home/jacob/Documents/3-Semester/Machine-vision/2-Lektion/build-Exercise2_imageFiltering-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/jacob/Documents/3-Semester/Machine-vision/2-Lektion/build-Exercise2_imageFiltering-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/jacob/Documents/3-Semester/Machine-vision/2-Lektion/build-Exercise2_imageFiltering-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/Exercise2_imageFiltering.dir
