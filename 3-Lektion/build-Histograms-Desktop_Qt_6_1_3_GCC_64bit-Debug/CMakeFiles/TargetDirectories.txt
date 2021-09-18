@@ -1,0 +1,3 @@
+/home/jacob/Documents/3-Semester/Machine-vision/3-Lektion/build-Histograms-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/jacob/Documents/3-Semester/Machine-vision/3-Lektion/build-Histograms-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/jacob/Documents/3-Semester/Machine-vision/3-Lektion/build-Histograms-Desktop_Qt_6_1_3_GCC_64bit-Debug/CMakeFiles/Histograms.dir
