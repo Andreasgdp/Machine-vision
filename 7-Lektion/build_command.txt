@@ -1,0 +1,3 @@
+cmake -DCMAKE_BUILD_TYPE=Release -D
+OPENCV_EXTRA_MODULES_PATH=/home/jacob/opencv_build/opencv_contrib/
+modules/ -D OPENCV_ENABLE_NONFREE:BOOL=ON ..
