@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Obligatorisk_Opgave_Frekvens-baseret_billedebehandling",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Obligatorisk_Opgave_Frekvens-baseret_billedebehandling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Obligatorisk_Opgave_Frekvens-baseret_billedebehandling-Debug-3ea2895aa3b4a2d40a3a.json",
+					"name" : "Obligatorisk_Opgave_Frekvens-baseret_billedebehandling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jacob/Documents/3-Semester/Machine-vision/Obligatorisk Opgave/build-Obligatorisk_Opgave_Frekvens-baseret_billedebehandling-Desktop_Qt_6_1_3_GCC_64bit-Debug",
+		"source" : "/home/jacob/Documents/3-Semester/Machine-vision/Obligatorisk Opgave/Obligatorisk_Opgave_Frekvens-baseret_billedebehandling"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
