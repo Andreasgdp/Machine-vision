@@ -44,13 +44,9 @@ int main() {
     imshow("Hough circle detection", visible_houghSpace);
 
     // --------------- Cirkel Position ---------------
-    double minVal;
-    double maxVal;
-    Point minLoc;
-    Point maxLoc;
-
+    double minVal, maxVal;
+    Point minLoc, maxLoc;
     minMaxLoc(visible_houghSpace, &minVal, &maxVal, &minLoc, &maxLoc );
-
     cout << "Max coords: " << maxLoc << endl;
 
     Mat img_final = img;
